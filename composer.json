@@ -13,7 +13,7 @@
     "homepage": "https://github.com/azulae/laravel-azure-face-api",
     "require": {
         "php": ">=7.0",
-        "azulae/php-azure-face-api": "^0.2.0"
+        "azulae/php-azure-face-api": "dev-master"
     },
     "license": "MIT",
     "authors": [
